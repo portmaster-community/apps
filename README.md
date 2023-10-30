@@ -1,4 +1,4 @@
-# Share of Portmaster Settings
+# Share Portmaster Settings
 
 [Portmaster from Safing](https://safing.io/) is an Application firewall with lots of configuration options. In this repo we share recommended settings (and later whole profiles) for everyone to use.
 
