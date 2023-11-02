@@ -1,0 +1,16 @@
+config:
+  filter:
+    blockP2P: 7
+    lists:
+    - TRAC
+    - MAL
+    - DECEP
+    - BAD
+    - NSFW
+    - BIGT
+    - EXPERIMENTS
+    - UNBREAK
+type: settings
+
+# jess-checksum: Zwk8y9o9TFi7nTmrZJjygbXGB7tMynJij5n4KS7UoJZpyK
+

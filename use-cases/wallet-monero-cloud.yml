@@ -1,0 +1,10 @@
+config:
+  filter:
+    blockLAN: 7
+    endpoints:
+    - + api.kraken.com.
+    - '- Internet'
+type: settings
+
+# jess-checksum: ZwvupyBGQ7TcYaAD7HmPMvCUfQdL4U8g8WYa7QpFPLw3tW
+

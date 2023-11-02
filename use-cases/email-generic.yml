@@ -1,0 +1,9 @@
+config:
+  filter:
+    endpoints:
+    - '+ *.mailbox.org. # use your email providers domain'
+    - '- *'
+type: settings
+
+# jess-checksum: ZwpVVUdLUV14JXpeZFmoiTz7iNHr6tLwdfpnBRiZSSnxzK
+
