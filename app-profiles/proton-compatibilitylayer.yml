@@ -3,7 +3,7 @@ id: bafadb90-eab8-43cd-b637-4260ca09520f
 source: local
 name: Proton
 description: A profile for the Proton compatibility layer
-presPath: /home/teunis/.local/share/Steam/compatibilitytools.d/GE-Proton7-40/files/bin/wine64-preloader
+presPath: /home/user/.local/share/Steam/compatibilitytools.d/GE-Proton7-40/files/bin/wine64-preloader
 fingerprints:
     - type: path
       operation: regex
