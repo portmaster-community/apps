@@ -1,0 +1,8 @@
+type: settings
+config:
+    filter:
+        blockInbound: 6
+        serviceEndpoints:
+            - '- Internet'
+
+# jess-checksum: Zwzh8UJYAgEagBwWWHYKJPB86YCot5z2WmU5uqxMufaAzu
