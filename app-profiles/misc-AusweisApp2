@@ -1,0 +1,6 @@
+type: settings
+config:
+    filter:
+        blockInbound: 6
+
+# jess-checksum: ZwmvZj26hoy157jug3KYRZLtoT9iuZgTMzkffFop9yoSQK
