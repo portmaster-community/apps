@@ -1,4 +1,4 @@
-# Settings for Use Cases
+# Templates for different Use Cases
 
 ### Browsers
 
