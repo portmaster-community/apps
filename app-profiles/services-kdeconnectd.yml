@@ -9,6 +9,6 @@ fingerprints:
       value: /usr/libexec/kdeconnectd
 config:
     filter:
-        blockInbound: 6
+        blockInbound: false
 lastEdited: 2022-11-17T10:59:01+01:00
 created: 2022-11-17T10:30:55+01:00
