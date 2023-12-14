@@ -6,7 +6,7 @@
 
 ### Services
 
-- [KDE Connect](svervice/kdeconnect)
+- [KDE Connect](service/kdeconnect)
 
 ### Wallets
 
