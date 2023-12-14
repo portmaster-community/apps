@@ -15,5 +15,4 @@
 
 ### Miscellaneous
 
-- [AusweisApp](misc-AusweisApp.yml)
-- [AusweisApp2](misc-AusweisApp2.yml)
+- [AusweisApp](misc/AusweisApp)
