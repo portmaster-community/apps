@@ -2,12 +2,16 @@
 
 ### Browsers
 
-- [Firefox](browser-firefox.yml)
+- [Firefox](browser/firefox)
+
+### Services
+
+- [KDE Connect](service/kdeconnect)
 
 ### Wallets
 
-- [MoneroGUI (Local)](wallet-monero-local.yml)
-- [MoneroGUI (Cloud)](wallet-monero-cloud.yml)
+- [Monero GUI](wallet/monero-gui)
+
 
 ### Miscellaneous
 

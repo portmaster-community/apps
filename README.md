@@ -1,4 +1,4 @@
-# Share Portmaster Settings
+# Share Portmaster Settings and App Profiles
 
 [Portmaster from Safing](https://safing.io/) is an Application firewall with lots of configuration options. In this repo we share recommended settings (and later whole profiles) for everyone to use.
 
@@ -8,7 +8,7 @@ If you have a settings you want to share please create a [new discussion](https:
 
 Share settings, including fingerprints and more of a specific app with the community or go and search what the community thinks is the best Portmaster configuration. 
 
-## [Use Case Settings](use-cases/README.md)
+## [Generic Templates for different Use Cases](generic-templates)
 
 Share a collection of settings for specific app use case, for example for browsers, email programs or the like.
 

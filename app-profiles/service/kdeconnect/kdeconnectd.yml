@@ -1,0 +1,14 @@
+type: profile
+source: local
+name: Kdeconnectd
+presPath: /usr/libexec/kdeconnectd
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: /usr/libexec/kdeconnectd
+config:
+    filter:
+        blockInbound: false
+lastEdited: 2022-11-17T10:59:01+01:00
+created: 2022-11-17T10:30:55+01:00
