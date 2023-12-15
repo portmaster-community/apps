@@ -4,5 +4,5 @@ KDE Connect provides various features to integrate your phone and your computer.
 
 https://kdeconnect.kde.org/
 
-[KDE Connect Profile](kdeconnectd.yml)
+[KDE Connect Profile](kdeconnect.yml)
 
