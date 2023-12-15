@@ -4,6 +4,10 @@
 
 - [Firefox](browser/firefox)
 
+### Games
+
+- [Proton](game/Proton)
+
 ### Services
 
 - [KDE Connect](service/kdeconnect)
