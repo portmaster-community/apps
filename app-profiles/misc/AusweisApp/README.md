@@ -1,4 +1,4 @@
-# Ausweis App [ger]
+# Ausweis App [en]
 
 The AusweisApp is a software that you install on your smartphone, computer or tablet to read your ID card, electronic residence permit or eID card and thus identify yourself digitally. In addition, the AusweisApp enables encrypted data exchange between the ID card and the online service with which you wish to identify yourself.
 
