@@ -1,21 +1,22 @@
 type: profile
-id: PTM3U2aYeA1P4DhEq56mVDwrvLm2id27jTTR47UeA35sGW
+id: PTUmjmJeFbyL2udv4B2n5dtqtJtKjM9Wk7STqmPcXH3B74
 source: local
 name: Ausweis App
 presPath: /app/bin/AusweisApp
 usePresPath: true
 fingerprints:
-    - type: path
+    - type: tag
+      key: flatpak-id
       operation: equals
-      value: /app/bin/AusweisApp
+      value: de.bund.ausweisapp.ausweisapp2
 config:
     filter:
-        blockInbound: 6
+        blockInbound: false
         serviceEndpoints:
             - + LAN
             - + Localhost
             - '- *'
-lastEdited: 2023-12-14T09:48:10+01:00
-created: 2023-11-07T09:18:15+01:00
+lastEdited: 2023-12-18T18:25:51+01:00
+created: 2023-12-18T18:24:08+01:00
 
-# jess-checksum: ZwrW36WEG8ycedvpssEFxSU8kjySTcsqWLiMAd79cFrBPR
+# jess-checksum: ZwsphaCMzCXKvrg7MNA9n8vEUUf5CPJbL3Nw3nKaRC7dsf
