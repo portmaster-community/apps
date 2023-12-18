@@ -12,3 +12,7 @@
 
 - [Monero GUI](wallet/monero-gui)
 
+
+### Miscellaneous
+
+- [AusweisApp](misc/AusweisApp)
