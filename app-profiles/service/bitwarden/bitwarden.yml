@@ -1,0 +1,26 @@
+type: profile
+id: PTTCA7kc5zYshJhFsgDz74oJ5vERFrhiCJgzbzo76TDVXp
+source: local
+name: Bitwarden
+presPath: C:\Program Files\WindowsApps\8bitSolutionsLLC.bitwardendesktop_2024.3.0.0_x64__h4e712dmw3xyy\app\Bitwarden.exe
+usePresPath: true
+fingerprints:
+    - type: tag
+      key: winstore-app-name
+      operation: equals
+      value: 8bitSolutionsLLC.bitwardendesktop
+config:
+    filter:
+        endpoints:
+            - + api.bitwarden.com TCP/HTTPS
+            - + events.bitwarden.com TCP/HTTPS
+            - + func.bitwarden.com TCP/HTTPS
+            - + identity.bitwarden.com TCP/HTTPS
+            - + scim.bitwarden.com TCP/HTTPS
+            - + sso.bitwarden.com TCP/HTTPS
+            - + icons.bitwarden.net TCP/HTTPS
+            - + notifications.bitwarden.com TCP/HTTPS
+lastEdited: 2024-03-31T15:42:27-05:00
+created: 2024-03-29T15:30:59-05:00
+
+# jess-checksum: Zwwtqmh8fT6bqPakwuXmb8UjTQm3fchXFxNN6JupRLBRue
