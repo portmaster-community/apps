@@ -1,0 +1,39 @@
+type: profile
+id: PTRX7jbgQ57HqSusAfZF85H4ai5Lrieayv7nvoKYtufeZn
+source: local
+name: iCloud for Windows
+presPath: C:\Program Files\WindowsApps\AppleInc.iCloud_15.0.215.0_x64__nzyj5cx40ttqa\iCloud\iCloudFirefox.exe
+usePresPath: true
+fingerprints:
+    - type: tag
+      key: winstore-app-name
+      operation: equals
+      value: AppleInc.iCloud
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + Localhost
+            - '+ setup.icloud.com # Required to log in with an Apple ID'
+            - '+ certs.apple.com # Certificate validation'
+            - '+ crl.entrust.net # Certificate validation'
+            - '+ crl3.digicert.com # Certificate validation'
+            - '+ crl4.digicert.com # Certificate validation'
+            - '+ ocsp.apple.com # Certificate validation'
+            - '+ ocsp.digicert.com # Certificate validation'
+            - '+ ocsp.entrust.net # Certificate validation'
+            - '+ ocsp2.apple.com # Certificate validation'
+            - '+ valid.apple.com # Certificate validation'
+            - '+ *.push.apple.com # Push notifications'
+            - '+ configuration.apple.com'
+            - '+ *.apple-cloudkit.com # iCloud Services'
+            - '+ *.apple-livephotoskit.com #iCloud Services'
+            - '+ *.cdn-apple.com # iCloud services'
+            - '+ *.gc.apple.com # iCloud services'
+            - '+ *.icloud.com # iCloud Services'
+            - '+ *.icloud.apple.com # iCloud services'
+            - '+ *.icloud-content.com # iCloud services'
+lastEdited: 2024-03-31T15:22:17-05:00
+created: 2024-03-29T15:13:54-05:00
+
+# jess-checksum: ZwoHiqJLafXmcfhwhQXAMihxoJAqRohsTDTHrvhdo1nsiS
