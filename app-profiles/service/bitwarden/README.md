@@ -11,6 +11,8 @@ Bitwarden is a free and open-source password management application and service 
 
  https://bitwarden.com/help/bitwarden-addresses/
 
+The table below contains all the endpoints that are used by the application.
+
 | Endpoint                    | Documented? |
 |-----------------------------|-------------|
 | api.bitwarden.com           | ✔️         |
