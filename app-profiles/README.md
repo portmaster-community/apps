@@ -6,6 +6,8 @@
 
 ### Services
 
+- [Bitwarden](service/bitwarden)
+- [iCloud for Windows](service/icloud-windows)
 - [KDE Connect](service/kdeconnect)
 
 ### Wallets
