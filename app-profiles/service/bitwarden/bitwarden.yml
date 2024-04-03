@@ -21,6 +21,14 @@ config:
             - + sso.bitwarden.com TCP/HTTPS
             - + icons.bitwarden.net TCP/HTTPS
             - + notifications.bitwarden.com TCP/HTTPS
+            - + api.bitwarden.eu TCP/HTTPS
+            - + events.bitwarden.eu TCP/HTTPS
+            - + func.bitwarden.eu TCP/HTTPS
+            - + identity.bitwarden.eu TCP/HTTPS
+            - + scim.bitwarden.eu TCP/HTTPS
+            - + sso.bitwarden.eu TCP/HTTPS
+            - + icons.bitwarden.eu TCP/HTTPS
+            - + notifications.bitwarden.eu TCP/HTTPS
 lastEdited: 2024-04-02T05:29:31-05:00
 created: 2024-03-29T15:30:59-05:00
 
