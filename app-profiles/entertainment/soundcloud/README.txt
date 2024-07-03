@@ -1,6 +1,6 @@
 # Soundcloud
 Soundcloud is a music streaming service
 
-https://m.soundcloud.com/en/gb
+https://m.soundcloud.com/
 
 [Soundcloud Profile](soundcloud.yml)
