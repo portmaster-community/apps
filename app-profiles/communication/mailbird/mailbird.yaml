@@ -1,0 +1,28 @@
+type: profile
+id: PTTH6sQ2uMShVgofe8dYAqtTqbY6gH5Y6ZgXkLJuZeMjwd
+source: local
+name: Mailbird
+presPath: C:\Program Files\Mailbird\Mailbird.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Mailbird\Mailbird.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + www.getmailbird.com
+            - '+ posteo.de # delete if not needed'
+            - + api.mixpanel.com
+            - '+ outlook.office365.com */https # delete if not needed'
+            - '+ mails.protonmail.com */https # delete if not needed'
+lastEdited: 2024-07-04T13:31:07+02:00
+created: 2024-07-03T16:31:31+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADjUlEQVRYhe2Wy0sjWRTGf9e6IVVaFYhGTSLoJsy0RBQRMqCCDm5cjLsI+Qucxfw73coss5leuWuEENGs3FpLF24UJORBHj7TSd1kFk5Vd0xsHzDjLPzgQtW999zvO6fOObfgHe94YwggCvz2RvxfALa2t7c/FovFzn+FYrHY2d7e/ghsCWArn8//qZRieHgYwzBQStHpdDyZjuO8yj0pZc/73d0dhUIBXdeJRCK/S4BwOIxSitPTU8bGxwlYVg/x94Kei+/tfT4fpVKJQqHAhw8fPHGeRE3TiMVinJyccO44xOPxLmKl1IsFaJqGEAIA27aRUjIzM4Omad6eAffBJYjH44yNjZHJZHAcByHEq8gBhBC0Wi0ymQyhUIi5ubkeZwYeGimliEQiLCwskMlkuLq6Qtf1F5Pruk6tVmNvb49EIsHU1FRfRzwBnU7HG47jEA6HWVlZIZvNcn5+jmmaaJr2rGGaJmdnZ+zv77O2tkYkEsFxnC4OF14OPMx0x3EIBoNsbGywu7tLvV5nfn7+yYqQUnJ8fIxt2ySTSQYHB2k0Gn33dUWgH5rNJoZhkEwmsW2bXC6HEAIpJUKIruHO5XI5bNtmc3MTwzBoNps/FDzgettvKKVoNBpIKUmlUrTbbXZ2dqjVaj1hr9Vq7Ozs0G63SaVSSClpNBoopR49/8kIuHA3T09PE4vFSKfTXFxceOsXFxek02lisRg/T0932TwF6W5+rNG4pVQsFgkEAqyvr2MFAvz1+TO/rq4CcHh4yOLSEkuLi5TLZfL5PMFgEJ/P9+i5rkAJ9xXQr0Q0TeP6+prb21tGR0ex/umQvyQSCODg4ACA5eVlEokEAKFQCL/fT6lUwjAMTNPse3ZXJ3zY+11UKhUAotGo901d49nZWUZGRgCYmJgA8NYNwyAajVIoFKhUKgQCgZ6zXVE9EdA0DaUUl5eXGIZBMBik0+l0lZLjOGiaxuTkpDfXb318fJxqtUq1WsWyLKSU34j7RUAIQaPR4O7rVyzLQtf1vjXskvwI7rppmkgpubm5we/3e3nRFQEXrVYLx3GwhoY8MS7cS+WlaLVaCCEYGhrq+oQuJEC5XMY0TYQQXt9/mBOvuY4f2uq6jlIKpRT1ev2bgGw2+2lxcfGPUCiEUoqBgWe1hxej3W4D9w4fHR19gvt/wp+A1X+F8WnkBGABkTcSkHczy3ojAVdvxPuO/xH+BsmSPtwZWGGCAAAAAElFTkSuQmCC
+
+# jess-checksum: Zwviox7FgacuZGYfSB1nGu12mZWfqUuYjYQ82zZrMAT95J

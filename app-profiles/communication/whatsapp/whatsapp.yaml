@@ -1,0 +1,22 @@
+type: profile
+id: PTPoHoUg2yCifJzsHJg23QNXBqpdpFRqnTeJCUkuvCkotD
+source: local
+name: Whats App
+presPath: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2424.6.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+usePresPath: true
+fingerprints:
+    - type: tag
+      key: winstore-app-name
+      operation: equals
+      value: 5319275A.WhatsAppDesktop
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + mmg.whatsapp.net
+            - + crashlogs.whatsapp.net
+            - + g.whatsapp.net
+lastEdited: 2024-07-04T15:30:03+02:00
+created: 2024-07-04T15:19:37+02:00
+
+# jess-checksum: ZwwBzcorEHpjmnBkpN7eVFnypK5crNDuGhZ62D3z9Ea2wi
