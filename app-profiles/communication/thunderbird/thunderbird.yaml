@@ -1,0 +1,27 @@
+type: profile
+id: PTNDLQ5h251tXkBownNDpY11WdWYJgW4w9QSar6BDi5zDV
+source: local
+name: Thunderbird
+presPath: C:\Program Files\Mozilla Thunderbird\thunderbird.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Mozilla Thunderbird\thunderbird.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - '+ login.microsoftonline.com # remove if not needed'
+            - '+ smtp.office365.com # remove if not needed'
+            - + incoming-telemetry.thunderbird.net
+            - '+ outlook.office365.com # remove if not needed'
+lastEdited: 2024-07-04T15:15:32+02:00
+created: 2024-07-03T16:26:00+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: ZwockdfWLCswMTYGABmUdbysLRwQCu6whZaqQPh2QgfRU1

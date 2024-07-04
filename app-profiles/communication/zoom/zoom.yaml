@@ -1,0 +1,27 @@
+type: profile
+id: PTTDGg9hFbS2fuy63HuE7mHMHSZ8bvHKv4EPWE4NbSL4wn
+source: local
+name: Zoom
+presPath: C:\Users\Safing\AppData\Roaming\Zoom\bin\Zoom.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Roaming\Zoom\bin\Zoom.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + xmpp013.zoom.us
+            - + cdn.zoom.us
+            - + nws.zoom.us
+            - + zoom.us
+lastEdited: 2024-07-04T15:44:33+02:00
+created: 2024-07-03T16:21:37+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAGfUlEQVRYhY2XXYhdVxXHf2vtM+Nk8jXRNCa1NHdaaluVVCgE+6CMeWrF0lZRiv1I+qQWIRUVNAiZUZuHqpgKfRFaJ7QPpQ4a/OgX1URLKPpiFaER0dyECjZN25tMcnNzz95r+bDPOffM5PPA4Zz9uf7nv/5rrX2EK7g+9u3FGTW5a6yQacM3jxdMFYFOCA5AoU4Q66LeK6Ar47yuMf7xt9+66uDl9paLDXR2HJkaTlyzc+UKeySITxWFEwRCMEQEVSeoExRCcArNYFSp+p0QvJtgfnww2Lf/O5u6VwzgA/efuHty9dqnisLXqdSbGqpkw1cAZKzIzwaIlXPPf2PD/GUBXP2VcncymQ0ihGBkAM6lgIRAAwJGQNps5AGfff7r6+YuCmDyS2dnx8Ymdqs6RXBUnULbAJwiZBAAtVtUQWQpkLY+lgBZBqIBsPLe4Q6C/lxDyAvDyOhyIBnc+WzU75dzi8fynpd3rd/fAJi4+0hHVmw6IBI6IgKiqMoy+q8cyKX0oQoBe++fh9+7rjs/3VMAndy4Q9w6eMQt4ZawlIjJiUma20yIBikpMQnDKMQEZVTKqMQolEkYRsVMSAmSCckgJSFaXlOaruvc+P6dAArg6dx2PIE7YOCGWwI3zLwBMiyVYamUCaKRATUAMxAzKiAV0KgMy2x4WEoDxCOPAMiqexdnzOIBRDMeqWQhoWorbbdcSh9FLbxwZfoQLz9dWDw9g4xXUvRKFgqk/OqGu4I45hnA0JQiCOqgJljlWzOhCE7EMdNGH6ag7gQTQshjFIZ4cXfhIrdIRTsoj21fyZ1ba0DnX8/8ydnzSyMmZe2E89h9wp23Kmsm4R9vOrPPJk6dE773xcAnbsiAF/7s/OyVxH97ieTKWIBhKQjSkcnPv/lXJ3xcJNO9eUPBi7NruXb9RbM0K++LALzxeGjmnerDmkmWvLf7jp1wvvCTxKlBGuWPkF4v3JhCIo6CK0ffMm5++B02bygagx/prGLhm7m9Z2EADvd/quDa9cKxE85t33VOnhF23ePs+lxm44e/Nn78O2fzeueprwY+eo1w163K/KsOMbslWJhSPHZwr1xguEfcIkffGnL0eGTNpPDkw6Ex/uhCBE988uYEwBMvGL3F7MI9vxqx9sTLRozKkePKj36TxfnhDy0N2zJJp6jDjkpoiIDkiNwy/T5eml3D2knJxn8xqEQqQGakd8YroZLXV/3vLhY5UhwWz6RK2BBTleA8i7HIX06j+LyBsaWjI+PPLfLowrnq27TZrLm8zGHroy5LCRNFXThbjtw5jJLD1snZFKsWA4iCR7ZMr+Cl73+wMf6D5xYRqTepQbaMuwOJNgJ3R7AcclXJOTeEGLUJ20KhsDTsaig6UIAbW66baIw//YfTPH3gDJuvUsA41Rd6fQGPyxhINYWtvtjkj9JoQMeU80cBDKIcLlTo5S+IgPK1z2baAR7YtooHtq1aYuvo25E75k4jldePHS8rAAoCf+9GtnSK3Fe59WR/xFhMjlYJTQVCuPHLtwtyE2QBHns7svWm1QxK42T//BtAPIEjC4cGLBwaVAwbuPOXf0W23lDw5CuROrMe7zkiysk+vPqG41QFyjgkKz7zt72I7YSc7/NV1QQpAMFdXRQZ1Yt6PM9v9CEtgVaJbVRf2s9cX9zLOXXr73c33FOmrcoHOTfkmBdJkkO1HotgKd9e5Y72eBPaVu3Zuqv1bgm1eDAfSO547V0o1mXg9deEkeNbldE9XJINUERaLDRzllZbJ3TPPrtiOs90+2mN0C1/jVtJkyNa7Ail4AlP5pmhpWxk9S9jpGEjUp87RNlH7bCNG6/eK1b2GmMNtS23eMwxX1GY3dJ2WQVkWVpfMl4BcWLX+v+bbwB056d7kuJDWImbeV6QwEoafeDLfBpHbYvnA2nrox6vGFMr5wb7p7sAjaPLI/sOF9c/KILM5M0k+6uVW8BzxIkyGvBR26u+uib5qLZkcYJgc/2FjXvrHVtKg/jvfQeL6x8U0JnR6ajWQRuHIdQb1xnQWhOqdU19kUqTOtdf2DTLspnnXRPbfr/Di7HdgnTyrHCBHFGrvRUBrWgZtQG0N7l6zUPvPJP/BS4LAPK/Av3/7HDGttdAnOCiKk2y0Wwgn6YuGLY9UR7fMDW+tzs/3buQnYufu9pgbn9tBhvMGOGWgHYMmxIdX8KOU3RV6JlYV02PuvX3D1687bK/5/8HRsf2zNP8Wn0AAAAASUVORK5CYII=
+
+# jess-checksum: ZwkJiM6Wa1paFrK4BCK2Y5MGmo28Fr1KkBTSkdP61h2Pf5

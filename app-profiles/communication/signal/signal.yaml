@@ -1,0 +1,26 @@
+type: profile
+id: PTZPkKAqeL55Su1KY95P54SvgcggsNx2VRDBmFzNetjZMH
+source: local
+name: Signal
+presPath: C:\Users\Safing\AppData\Local\Programs\signal-desktop\Signal.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\Programs\signal-desktop\Signal.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + cdn.signal.org
+            - + chat.signal.org
+            - + updates2.signal.org
+lastEdited: 2024-07-04T13:53:07+02:00
+created: 2024-07-03T16:11:42+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: ZwqVj8aCWXrxh3rJWw7wCwi9AwETy1TPYZMG9LzNGnk9qJ

@@ -1,0 +1,26 @@
+type: profile
+id: PTRLBW6anu37vH1nnFfTB7zGyzZUfNUtmCKYidMMsCCicf
+source: local
+name: OUTLOOK.EXE
+presPath: C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + outlook.office365.com
+            - + office.com */https
+            - + microsoft.com */https
+lastEdited: 2024-07-04T13:47:07+02:00
+created: 2024-07-04T13:34:04+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADRUlEQVRYheWWz28bRRTHP7Oz6117nWjNOiYhQUSRmvSHkOxYQoIKKRESIIHgwo1Dg4QiIQ7ACf6Loh5LJcKNA0JF4sCtPcCNECNKhRANqZrgNDjJxs46rtN4OWziZru213ENUsX3sjszb+b7nXlv3jz4v0N0a6i8+92SgGw/SD0oNK68mgNQup3UL/KH1+pawL8FtVvDg/RY27HT2Uz7sdxQy/6rV/zv43MC7G60HTooS+Sg3aOAj28sIXoMsOo2LH+Pd+61nqYDKD2TAyRScK/S83RfQAfMTJjMTJiPRBCFUAxYhuTi68PM5a1A/8Kiw0ffruPUDgL9Sm2XP34tQbK3eA7NujY/3iQvFGsUijUA5vIW1+bHsQzZE1FXAubyFtkRA4B3vlojd+kWuUu3mP1sBYDsiBE6mb4KuDDtL371ZoWFRafZf33ZbbbfPDvQF+L41PyHIQFW3D/enw+P/ThuO/sBm0eFQFxMTM4vBYKw3/5tBe/+feqrdxC6gXb+pWxAwMp2nfGUxjOWFpp41OfsBW+B2LyD3CpCrd6S8LfCg39l52/k3dvEhjIYb7+H0PWgC7656SeVubwVCLaZCbPZ/uInh5NCVMuof/6CXt0mOZ0nfuYMQteBh/LApz9scuHwJnz+1igfnPfz+9HNKBRrgeAEwPM6MAvk6u+o+3sYp06hpcMvYygPzF5eaZJkR4wm+cKiw+zlldACcr+OUt6CxjHXNA5QdkqoxWUSaYuB519oSQ4g+ORG2y0cpeHry27bTWbWvmZfeZrqeoVG6kl/V9t30Z4aRT/7LEILx9NxdHyOOxEfQagq9nN5Ug2drR8L1F2X2HQWmbIRMjo9q3gUen0RZa3U/I/ZKYZfmeVeuUyluE7DdcBIghpDqDqI1vVvZFX8xBvvt3WRUDW09BjJ3MuoqeHAmLuxgVvaBKkjdPNQiBaijKyIzHMvRpkgZNjPZiZDwrapFNfZc0q+iJjpizhmHylADnQutZRYvG05JqRkcGyURNqm8leR+m4JJT74wC2KjHbB6S83Olz0k6HuupRX12g0QBgDoMb+26o4ZpqkpyZJDtl4ew5edSdagIdXiLI5KRJpm6GpSYyE3ve1Hz/8A/CC6O61qL/+AAAAAElFTkSuQmCC
+
+# jess-checksum: ZwqVQt6uMRNesTLiTgTKzYrCbK6PVnPpj85nbbgPysPFqy
