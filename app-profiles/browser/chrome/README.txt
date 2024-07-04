@@ -3,4 +3,4 @@ Chrome is a cross-platform web browser developed by Google
 
 https://www.google.com/chrome/
 
-[Chrome Profile](chrome.yml)
+[Chrome Profile](chrome.yaml)
