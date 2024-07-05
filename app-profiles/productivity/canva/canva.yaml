@@ -1,0 +1,26 @@
+type: profile
+id: PTWqvUaVcLg2f41xAed5gTadJW2zFdpJgnbHyNEUzbULFL
+source: local
+name: Canva
+presPath: C:\Users\Safing\AppData\Local\Programs\Canva\Canva.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\Programs\Canva\Canva.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + desktop-release.canva.com
+            - + chunk-composing.canva.com
+            - + static.canva.com
+lastEdited: 2024-07-05T13:06:42+02:00
+created: 2024-07-04T09:12:04+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: ZwqLaAKjyvEP2HYeLgCBtNfMaKW3Vgvg8HXifRbGR3DiBg
