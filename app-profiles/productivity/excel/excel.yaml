@@ -1,0 +1,26 @@
+type: profile
+id: PTMoaJQyM8ENFhftFKTEuZyGQmBeHv7LM5v423oeEoeHat
+source: local
+name: EXCEL.EXE
+presPath: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + odc.officeapps.live.com
+            - + outlook.office.com
+            - + outlook.office365.com
+lastEdited: 2024-07-05T12:31:01+02:00
+created: 2024-07-05T12:13:42+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACI0lEQVRYhe2WsWsTURzHP+/S9C7m7IVMLUrpgYsFSTpWb7BdSutmtiyZBEt2A9FNCM0fENo1KG5xjHSJS7FjIh0cLFZCxehgeuXQS6GeQ0tQ2+T10hxV9Dsdd7/7fj/33u/de/CvS8gKpp7cqwtE8qyGcfOKj3ivochK/IT7l0hKAYLWf4ARWcFh+6vURIQUlDFtMADj4e26EL0bbf/zh97BBx4j+4LItJ/O/w2gX7hM3qjA2dmlo3ZQLqsDefxZPWBoOk/TjwGovtlgdbMCwI2JaxQWswDkX5TY+rg9NIBfRsB2HbZa21hmgtx8BkPTASgsZrHMBMBQw08AABRrZWzXwdB0lm+msMxkNzz7vDjU8FMBbNchXy0BcH82RW4ucwT2skxzrxU8AMCz+jobO68xNB3LTNDca7FSKw89HPr8iGzX6V432596GoS/HKDtfkOJHALQ5q0vgFNHwDKT3Ll+C9t1sF0Hy0yQnlnwZTwwgKHplO4+AGBts8La8VIsLGW7qyJQgNx8hsnYOLbrsPqqwkrtqPkMTaewlA0WwDKTLM+mAMhXS90+KB43YHpmAcsc7vlExB7Neecx+L7+Dm0yjhIZBcCduuTr/YvfCzzPawy6I3p258Q97b38/PCzpKfi6PREzykSiiAUVVGvxrpT4FfSE5E6PiZ3UaTfMTiA0ML9n4cUFLV/zbkAwvHowOZn0YWvAimA53mNoMKD9P579AMt5ZSr3X3lrwAAAABJRU5ErkJggg==
+
+# jess-checksum: ZwucWL6VoZyoqBErddNvQUVqTbR1zmzuxh2REcoqX2uWtr
