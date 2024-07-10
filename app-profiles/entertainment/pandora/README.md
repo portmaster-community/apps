@@ -3,4 +3,4 @@ Pandora is a music streaming service
 
 https://www.pandora.com/
 
-[Pandora Profile](pandora.yml)
+[Pandora Profile](pandora.yaml)
