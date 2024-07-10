@@ -3,4 +3,4 @@ Soundcloud is a music streaming service
 
 https://m.soundcloud.com/
 
-[Soundcloud Profile](soundcloud.yml)
+[Soundcloud Profile](soundcloud.yaml)

@@ -3,4 +3,4 @@ Prezi is a presentation tool
 
 https://prezi.com/
 
-[Prezi Profile](prezi.yml)
+[Prezi Profile](prezi.yaml)
