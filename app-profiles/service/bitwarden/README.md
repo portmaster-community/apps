@@ -23,4 +23,11 @@ The table below contains all the endpoints that are used by the application.
 | sso.bitwarden.com           | ✔️         |
 | icons.bitwarden.net         | ✔️         |
 | notifications.bitwarden.com | ❌         |
-
+| api.bitwarden.eu            | ❌         |
+| events.bitwarden.eu         | ❌         |
+| func.bitwarden.eu           | ❌         |
+| identity.bitwarden.eu       | ❌         |
+| scim.bitwarden.eu           | ❌         |
+| sso.bitwarden.eu            | ❌         |
+| icons.bitwarden.eu          | ❌         |
+| notifications.bitwarden.eu  | ❌         |
