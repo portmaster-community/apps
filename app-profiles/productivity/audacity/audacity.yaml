@@ -1,0 +1,24 @@
+type: profile
+id: PTQjeSQvVwajs3ThSHTxTZ9E7yy3PaYSE35Jcj6nBY4Jom
+source: local
+name: Audacity
+presPath: C:\Program Files\Audacity\Audacity.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Audacity\Audacity.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + 127.0.0.1
+lastEdited: 2024-07-22T16:24:38+02:00
+created: 2024-07-22T16:24:18+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAG5klEQVRYhe2WW4xeVRXHf2vvc853Pd83nVvboS2tbWnLrUChEERkuGkQY0IIT8qDPvjIg0+GGH2QGJ94VCOJib410UiMJiLJaKEXoC2XygBWWu0AbefS+e7fme+cvZcPZ9BpZxCovpj4fzonZ63//7/W3mevLVwxfhLCRJg/f5DCN9MrYZFPHvqbMtR3Q3AbyPUQbgKNl2nakL4H+mfIXoHm2/Dl3n/JwLMxjD0M4eNQugOqQ1ACIgWT5TE+gIFAH+g0oH8U0p9D47fwUOs/MPDCPih8F+pfgNEQKn+D8AiYY8AZoLkcWAe2gd8H6Z3Q3QrzKTSfg6XvweeOf3yhq3D4YXjtXTivMJgGfQL6W+GA/eicAzaP0SfynPOacxx++FOKvzgJr8/AogP3C0i2f/oCku157qLLuV6c/ISJz03AsSMwr+B+BAu1Ty/+IRZqOce8wvEjOffH4ui34IzC4I/QHr9y8Q/RHs+5zmjO/W/xhzocPwxzKTQe/TjqAwewfKI/qfEozGVw4lCu8S8ElwYWroZoNyTvwtyhtaimpgjm5tDpafSusXjdwu/ag5GHaK0wxGOP4S7N+uAQxH+FcE+uwRsfYSAcBxND+wS8tLhWxXvj4oQviLv//mInfDm9wYel/sxM//XNm+k/sJM46+KA9qWZLy3C7e+B2Z5rfGQHTAwSQLYEu7bCy13YP7P8USbvGF1ffCe51aupuDScDQaDm30cNUphWWdnzd/tiWRn2FlqooOTCJqnvbwZskrOGQS5xpoGDn8e7JNgAecg/BqwDaYeV510zVP1bUa5VlNusl6vcnBWnNxIxPmobYZ9kQuhY4zMzByDt26FFKYCkB9CeAbE5dz2STh4Ee7+E4DJxQ/dBtEzMLQPqivMyQjEMj9T3mi9vUUa2T6rXGv6bq8oN5HqbrGyJ3x/6R7bcbdJqrcIcvNnFtfvbs7UhnfsOGlzjg8LrZJrVJ7JNcHkZ33wJNR35CeqWdkhffrp71cKrcI+UtllenoDXrdKX7eQ6S6T+I0IW2U2u84ker2kugtkj+36e01TJn/2459eddkSk2vUduSaz8YBjD4IpfsgJv+jdGWGPHDnqavtBbdf67JZemwjY0x6rs5AA+m7Kk4CezGLXD/yMtAiishCdmt4zl+96aq2q9fatWYrXibVZY0Y6N8How8GEDwC5Wq+PivFReu1Tlypda+157LdvmxGZcmNyzyx6fjQ9nxVehpI35VM21vT8uuk7wINTRrMZzdKy31QjpJWXOlVmq2V+07JtcpV6D8SQHA7FFkLtVonLqRuu5nXLa6qsU20Jm+6gngVuegCmVcx087KX7zYdlqUgTemTizqijhnCtmgHRWyaE1yikBwewDRBIRrBBitmKRSOdneb4+nW11qnXk3K8optcwqdsKLvKqYihc5qtjRzAoeLfgiG1xR2n5LUBssFVkqgdHV/CEQTQQwXrxs4/1zCcaajXH763SnOelGwzcHiT2ehhqIiII5nCKHFRsMYB7MuQwURAgQIKMWDA+2r+8vlqeRNQwYYH0xgKEEOiXwqzpQ6iaV4GC2gTkVe3pQoihCnJ8w9pUU2op45ZKJIOTvGchFHSrogLU7YIC4HwDvg9mx2gAYp8icr+tGk+qIQe8xBk+goah9PhVfskjDw3WCGpSOCGOkugXMae25C0GydDYcoulldZcN4N8PIDkKdgdklwV4aY5Umv6zkvnh0PsbjNENUpTU4zeGKqG3esFgioi/xqpWxckC6ITpinMmvcucXqJ0+r3vrN9LU9eYmBZYOhpA+kuofgWymEuGmDMXysPnsy9GZ82QH9HYlH0kse2aajYSpOYaW2UT6qsBPjbexzZhAiT1bWmL+A32nWS0cqyXFnaCl9XiURs6vwrAPw/291B+FDqXhPWScq+/qTQVFJOdvmRHxchwFvma1mzqR+w4NQ20KAMKNvNDpslAvVnUhKId+CEz3Q2i6Var0gZZYUCAMrmmfz6A8Q4MnoLoOqjuyS+6HlBptCqtxY3xC8WymxMjGzAyIt7UfCSBGw3GzYKr+yHboiw9jW1Tey4zS+J8pA0X21dPHJk41u5UujmfX668CkRvQfYUjHeWh0T0GqTfgOgHMHQ3pALnSJJo4ZW3x9740j0X2+qCzdbokCJlVKybCGqijPp1tqN10wZpqPU9R2BdJAtacace+/pXG6DLbR0RGFIID4L7dq656jrVGoHy3fleeGMWtAv7X5uaItizuTpcKpiaz0xmE9dOS+E1gdN1ak3i0ISAs+nCxUW7brSuru+7dBvbtpHAS3vBVOHG8bwDvYNQW1i5IFeEmRlKhaxSp9ftvDlLMjmJ47JJ9n/8T+Af/WUEx0W3exoAAAAASUVORK5CYII=
+
+# jess-checksum: ZwmTWWAELF3ssj1VLXM2gEzxQReqp665tpawiP5e5y6nB2

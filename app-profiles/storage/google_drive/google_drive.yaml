@@ -1,0 +1,27 @@
+type: profile
+id: PTRKh9SnTMS29sKJSoi4szWC3Do1xXJtkxGGQQmmCNLrix
+source: local
+name: Google Drive FS
+presPath: C:\Program Files\Google\Drive File Stream\93.0.1.0\GoogleDriveFS.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Google\Drive File Stream\93.0.1.0\GoogleDriveFS.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + fcmconnection.googleapis.com
+            - + www.googleapis.com
+        serviceEndpoints:
+            - + 127.0.0.1
+lastEdited: 2024-07-19T15:24:28+02:00
+created: 2024-07-16T08:35:22+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADtElEQVRYhe2WTWxUVRTHf/e9Nx8P6cx02sJUCi1GwE41pu1OQ4ihgE1MZAPCDlIww8LoQhZAQhDTGBN1XxJTTBWkjYldKDCGpEkjElJw01QiaOpnSZ0UhMBMp/PecTG0nZn33swUcKUnuYt3z7n/87v3nnvvg/+6qSVFH1tfjxZoxs75XP2aMddupH/9/vCNvx4/wODmOPdz5/kl1YSmuQpJTjHedvOPtuj0VtXFRDWyTiXPSOMrQmYTNSaI0y0Cx+tmaaubXoXN11XLVhU1tK0XaMEWiIVBL144BXTowoGWKbAAaJYkvY8HYGBjI0hi4dtvULoKIvB63Sz15p2CThJyjsZHBwiah1AqWtTXGC6uHgX71v5UvDWKKIpDleTLF+HnXa0YurOYFPB3Bn6fAeDq+hTtdVOutUGWuHqFH7xSeK9AX6cPXRtw9QlQE8AIGOw1LZ6LTLsnB/AxIH24H9uyAJHIJpTq9PQrRa4hLAfXTGPolmcYik6a2bR0AM0Y9FZ9YMvN063R1CnP2S9CeGq5Awxt/QhFbVlRkXTMSh/J5DgCpCsA1Mo5PqwO4PSWJ0H1lBXM2+DN3SOTZjeTiPcMCzL1uB1LJ4ChjqEIlRUTsuxI7pn/VNvYg5CtgBBG42h5gKHNG1FqfwUhwNrt6LJx9jktIUledAfo6/Sh9BMVJYQJ5N5ZR/9dzkJVD9CJwmO5CFAb7Qb1TOXxuQQ7v3MUndpJGpuE24gSi7OGLU4ApT6rPFbOsOPCqJdXvcwowpmKMjoLufIAX3QcRr+7HO0O3m3mFmbyrYriYd5E4xY6lGkRucDbAAYA1463IuWeBSHqW2nVZzve510p+4Cpb3T7sv/kbPzeG9hqtbeiyLNw7cFjtPf6qxh86RVsaBpPrW7B+8IvRIXborg6ussKzP6so9x57axsj10cG857+9cNg1xCCW5tVcOKqpJD/qFcpuDT53tBt123QHQuxS6ODUNhEdq5/QiZUsFlfj+BYLCq5PMWQBgMtegzkW671CdCRixZuGsWAT6Oj4OcL41eGW1gqT/PACml88mGA+i5H0sRkrGRsXEnAMDcn7sKk68IR/AHljb7eTMR3qtp0i6v67c1+/ZC/3079VphXDHAyZcyiN0DYOg6oVAEker23s022Bb9TV1aOtgOgI3sWzsyWbTNzhKdmzqFyER9KIym6Q+dHPJlO+p7givNPWi53ybSVspx2Xlu7tPvzH2gNF5APUQBFFNISKxvrxwNHnwknf/t37J/AEdrLMhiZNxHAAAAAElFTkSuQmCC
+
+# jess-checksum: ZwrYhoKQuh8t6hMCRpLvy9BQYVu3kKPMmTTyHD3W8gucUJ

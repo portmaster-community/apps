@@ -1,0 +1,22 @@
+type: profile
+id: PTPENkS7qzTJzYasPbXqSEEFMu4nefTvVosrr3wXm9QQ9H
+source: local
+name: Sublime Text
+presPath: C:\Program Files\Sublime Text\sublime_text.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Sublime Text\sublime_text.exe
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-23T15:00:27+02:00
+created: 2024-07-23T15:00:20+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD70lEQVRYhcWWz09cVRTHP/e+N3QqFAKFMjOCLU2j2NR0YSUKxqQbNHbpysR/wYX4d/g/mHZXu3LjsotSFhZNNLYN2EqoDD8KHX5pgMI9rwu4b87ceY8fC+tJJnPfveed7znf8+M+Mzo6+kmhUPjOWnuN1ygiMrm3tzcWDQ4O3nnd4ADGmApwxRpjrgEkSYL/12u9F56JSNNe3rt6z6+jKPrAKo+aDOozvfbnej9JkgYbWYChLkCcpazluPvWWkQEa22mvhcRabBhw00foWZCR5XHkrfhz4uR40rn+pFsxB5UA3slTbWnzf9n7XW07PJhaY2Pyotc7X5GwcKNHz8/1ImmFCRJgrW2IafWWowxOOeaKO0p7jBcrjFcWeBy5wKqLJrEO+6cS23HWkFH5H9hbo0xvNW2xUilxnD5GRc7VvMRFXAeo6kDecUoIlhjeLtjk+HKCiPlvyi3bh8Jqu3qYPw6ZcA51xCd9tRay9dXnzDUO01X8diYCrzuhE6n3ot1X6cRK08/Oz99cmBgqtbDT7MXEJGGeRF2XJw1TPJ6/zBxCfy+UmFivsTEQie17cIBSH3IaWCPF4f50QWSVfWhbL6EyecD3Pmzn6drp1PjOvKswNIU6OLTSsdl4UwLXO+b4XrfDDMb7dyf72ei2s3T9VOpHZ1SzYKI1B3wHmsGTioD7RsMtD/kq0FY/LfA3b8v8f2j/gY2NEMANuz9cNTeevweM+vtJ3am1LrLl4OPG0BDDKBeA1EUpQfeIWsttx6VuPmwl0rbLh+/ucpIpcq7Z19wUn58xJoJEam3YUh7OLnm/ynww3Qvt6fO0df2ki8uzTJUmqWnlUPHr6dfp9rbTydhXpvol7uKu4yU1xjqWeDy2eckAs7ByirEEZxqgWIRbOBMeGmFnRCHd7jPkb+APj1f48bAHO90LUGyP90kAZH9tTtwZGcHtrbBRlCI4Y0iWNs4irMKO84akToFY+//Us+32afbAondn3ixgMQghX2nnMDeHswswc8vLmTmHUhbM21DP3TCz6+89BoDBkiiA4cSmNsoMrF4kXtzHUzVTmMOQDS7IV6sFbxS2KuHyZPVLsarFcarHcxuFusFZ2i6B3RRe9Zjf9+HhZI3iCSBP5ZL3KueY7zazvJ2feIliZA3yLI+dNMi1BtZHu8K/LrUz3i1m/vzZ1jbjpR+4/UdBpA10nWdNaUglG/uDjFdK7LlohTA2vpnVfjxqkFCRsPLKb2MtOfhhfHbcuvBC41DRBvSDGat/XM4lIB6DWjQMAoNmpWqcNjovSyGtV4cVnpWV2Q9H5XbPAnPrIhM5mr/xyIiD6xzbkxEHvwf4M65b18BpKaoDJMiO+4AAAAASUVORK5CYII=
+
+# jess-checksum: ZwtKJSnsvHc3kmZG2Bo1Q3TLQhMgDVPH55uK7SHQmMbXyC

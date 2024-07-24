@@ -1,0 +1,12 @@
+type: profile
+id: PTTAVdLkxV3T5oShcNP158HAda5WXrYYA5vscMLrUC6RH5
+source: local
+name: 7 zip
+description: 7-Zip is a file archiver with a high compression ratio.
+fingerprints:
+    - type: path
+      operation: equals
+      value: This PC/BOOTCAMP (C:)/Program Files/7-Zip
+lastEdited: 2024-07-24T17:28:11+02:00
+
+# jess-checksum: Zwvqt32z7QFuiVMioPEBD6JTdCiuwFs4FSAkbNXuTmV4NN

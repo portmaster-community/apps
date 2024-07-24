@@ -1,0 +1,10 @@
+type: settings
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + objects.githubusercontent.com
+            - + github.com
+            - + www.getpaint.net
+
+# jess-checksum: ZwzvhxL5szpjNBCGEL3Uu5dy9McMFtzPZ5BJ5UkoNqDDyb

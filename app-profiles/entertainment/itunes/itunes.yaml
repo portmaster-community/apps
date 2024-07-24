@@ -1,0 +1,38 @@
+type: profile
+id: PTUdewKKpSxYUwGiEv7ud17nfRNpQ4mi4tzFUjG2nrdq2g
+source: local
+name: Apple Mobile Device Process
+presPath: C:\Program Files\WindowsApps\AppleInc.iTunes_12132.3.2017.0_x64__nzyj5cx40ttqa\AMDS64\AppleMobileDeviceProcess.exe
+usePresPath: true
+fingerprints:
+    - type: tag
+      key: winstore-app-name
+      operation: equals
+      value: AppleInc.iTunes
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + desktop-music.itunes.apple.com
+            - + play.itunes.apple.com
+            - + is1-ssl.mzstatic.com
+            - + client-api.itunes.apple.com
+            - + music.apple.com
+            - + itunes.apple.com
+            - + crl.apple.com
+            - + s.mzstatic.com
+            - + init.itunes.apple.com
+            - + gsa.apple.com
+            - + albert.apple.com
+            - + 127.0.0.1
+        serviceEndpoints:
+            - + 127.0.0.1
+lastEdited: 2024-07-22T11:43:17+02:00
+created: 2024-07-05T10:50:59+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: Zwta9qCeyD8Rc9YmJRZmLxx5jGyKMG3HN7zgSWXWPZso1Y

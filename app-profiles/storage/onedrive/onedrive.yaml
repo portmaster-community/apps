@@ -1,0 +1,24 @@
+type: profile
+id: PTSFR7iHbvyNmtAoTBBc39XKCbs4yrmrr7iVG87nJnxxME
+source: local
+name: One Drive
+presPath: C:\Users\Safing\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + config.officeapps.live.com
+            - + login.windows.net
+            - + officeclient.microsoft.com
+            - + go.microsoft.com
+            - + odc.officeapps.live.com
+            - + self.events.data.microsoft.com
+lastEdited: 2024-07-22T10:14:52+02:00
+created: 2024-07-22T10:00:30+02:00
+
+# jess-checksum: ZwpUozX3RqNhea6yWiWJ1qNNchWjQkXWSVG3Kd8Vje7SPG

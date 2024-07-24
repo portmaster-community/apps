@@ -12,11 +12,12 @@ config:
     filter:
         defaultAction: block
         endpoints:
+            - + cdn.hubblecontent.osi.office.net
             - + odc.officeapps.live.com
             - + augloop.office.com
             - + ocws-eu.officeapps.live.com
             - + outlook.office365.com
-lastEdited: 2024-07-05T12:53:33+02:00
+lastEdited: 2024-07-19T14:47:05+02:00
 created: 2024-07-05T11:20:12+02:00
 
 # The application icon below is the property of its respective owner.
@@ -24,4 +25,4 @@ created: 2024-07-05T11:20:12+02:00
 # It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
 iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2WP2/TQBjGf3exGzeK06RgUQY3YkEK7oBEp0j8UabMLEj9GnwRPgQZurHRAZYOHVBRM9QqYkEuCIOi0lLcCERTM6R2mxZy1dVWhOCdTtar5/nd6+d0B/96CVXDg6dfNoTgdh7mcUxXqpryMk+0lQB5138AQ9XwY/eTUkQUTKYqV7QAxLWlFxsCoRU0KfrM2B+oLdynWJvTAjB0zQGO4hJ777Y5KoYY9kBLY+IZSAHCTouw06JSOonFqydNwk4L17E425c5gB9EACzUbQC8ejk1bjZq6TeAta297AE2g29Ds1tVAB7du542te9cHYHzj3szBUgm4M0Pd5nsegg1OoGkNx+Auo3rWHj1Mn4QsbLeo1IyaC86eMcT2MxwAmni1rZ2AXAdKx3/8mrIfv+Q9qJDs1Gl2aiOwAIc7EQMtneQ03oAI8cwEX788AYAK697PF/vASeZyDKA5wBOj9YPIt73vrPfP8QPovR4ZhnAcwCnR7u8Gv52nWUAxwIkmTi7zjKAAGJu6WV8GYH+22dY7l3ktN5tOPG7wIiJu7o34uDgMz+/fgTzDXJqRgtA+Souzrf+/ItEAWnNYs562gDKF5FRvalWEQUt8wsBSKM83luaSHN8z6UACrarLX6RmvgpUALExN28zPPU/nvqF7wnnEBrQnERAAAAAElFTkSuQmCC
 
-# jess-checksum: ZwinysPcm4bmsgXMw3ktjgrKZXxjtXhpreDnCydf863AYk
+# jess-checksum: Zwv9sjxTLL9KWr1EF9J2m3i47rdBxHbSjhGDFD3B4svnCP
