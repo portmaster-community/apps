@@ -1,0 +1,14 @@
+type: profile
+id: PTPNUd9g5QJgEU3V6dZUBfJtFUYewBxayUHGMa7Fp5yZqN
+source: local
+name: WinRAR
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\WinRAR
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-25T15:28:09+02:00
+
+# jess-checksum: ZwrsKYKe3wKRs6XgqLKUhrNSj4WCqeuqiFyTZAi4Cva5Ke
