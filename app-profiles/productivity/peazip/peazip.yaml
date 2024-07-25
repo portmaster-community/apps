@@ -1,0 +1,15 @@
+type: profile
+id: PTUPmjPiX8GHHcbQAD3hUiz5ZwYUrRuEdnpUqp5wR919pZ
+source: local
+name: PeaZip
+description: PeaZip is free file archiver utility, based on Open Source technologies of 7-Zip.
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\PeaZip
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-25T10:25:30+02:00
+
+# jess-checksum: Zwkvo4xj61HhB39KEKiTZMWjsTwz6gsfmzLVD28x3nQnWd
