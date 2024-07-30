@@ -4,4 +4,4 @@ Prime video is an video streaming service by amazon
 
 https://www.primevideo.com/
 
-[Prime Video Profile](prime_video.yaml)
+Prime Video has no desktop applikation, so all connections run in a browser. 

@@ -3,4 +3,4 @@ Youtube is a video sharing platform
 
 https://www.youtube.com/
 
-[Youtube Profile](youtube.yaml)
+Youtube has no desktop applikation, so all connections run in a browser. 

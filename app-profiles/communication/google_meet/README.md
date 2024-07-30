@@ -3,4 +3,4 @@ Google_Meet is a video conferencing service from Google
 
 https://workspace.google.com/
 
-[Google_Meet Profile](google_meet.yaml)
+Google Meet has no desktop applikation, so all connections run in a browser. 

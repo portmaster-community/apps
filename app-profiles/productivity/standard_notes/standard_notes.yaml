@@ -1,0 +1,26 @@
+type: profile
+id: PTcFNnTHboyNJEfoCAfLNTUtCE3FGmsHvySNQ3VfCJxhhV
+source: local
+name: Standard Notes
+presPath: C:\Users\Safing\AppData\Local\Programs\@standardnotesinner-desktop\Standard Notes.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\Programs\@standardnotesinner-desktop\Standard Notes.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + captcha-api.standardnotes.com
+            - + api.standardnotes.com
+            - + 10.117.0.1
+lastEdited: 2024-07-23T12:42:47+02:00
+created: 2024-07-23T12:34:57+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACmElEQVRYhb1WvW4TQRicb3ft2MYWSR9EwQMQUaRAUFBRBAQ9HUV4ljwCRZAoqGiIgIKKAkSB0vAAFIiSgpMgl8S+/YZib+/HiZOcc8dI1sm7eztz8/3sAiUE/w8FlyuGnu6N+71r942RVZDaDa0YVSbT2c8PePHoT6nk4fPR4PrtjxS7SVJBiEi7jpAgBBQRI/Rfj358uYe3z1IHAMP1jS2F3QQ4FaGBtB+NsCUBICPs5nB9Y+sQeO0AQCBruUwDGNs6eykDgAbGnNMBgDJIgwAgIdKBBQBIMnCUnAYAjKAS8S6LQYqHyRlNh2wXgosqRADmCrsJQJ6CeXlFCgcAf1MFej4soXQXBQIQBvqZlgIe37qK3vAKmM91yQ8Gh2eHDm9e5hO/kmSbJFV1RlLZHTTn4K8k2S4c8B7weV1ItAHx2da3hz0jh/dhxgGABWBNIFNVqPqWiOuw1iK2mNjtisOIoQHBe480TdF2LyKJ8XgMay1Css0JiBARGGMgImBlYROcJr62V2W6EBAJrbWYTCaNSaODFxNdKqg5EEMwnU6XCgFJGGOwsrJSE1Wdnx87kQOqiuPj46UFWGvR7/drY2ehFgIAMMZgMBg0Jo+I+RPJ5x1YKKC6QfULmoIkvC/LOCb1IidOhCDLstbKkCR6vR5Go9HCNaeWYfy1gfP2qZchcKkyvJQAIFSnV21UhtFm59yJpJsXcmYSLluG8T3nXPH/NPJFiAIY18RG0kRAJD+PbP7VqgABpOhkw+Gw8SEQv7zB+SGFgMz7JLdSY7vsCpEj8z4pBnd29yYH6dF+fmXxqtr6rUgDPEkepEf7O7t7k8IGAHj17tPanZs3toxzqwQ92r8aUiBWsyz5/O37+ycP7v5uef/l8A8PjgAQ0ZIdCAAAAABJRU5ErkJggg==
+
+# jess-checksum: Zwinp5E93GKUJAJ946Cj3qJRyk9G7iSYuxL9bPHNzi5ShR

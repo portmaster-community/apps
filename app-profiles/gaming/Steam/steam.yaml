@@ -1,0 +1,35 @@
+type: profile
+id: PTXNqRPbCqyiRwG8UQHaE84Qhwt8aZKjSuU9RsMDj7rWUt
+source: local
+name: Steam
+presPath: C:\Program Files (x86)\Steam\steam.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files (x86)\Steam\steam.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + clientconfig.akamai.steamstatic.com
+            - + ext3-fra2.steamserver.net
+            - + ext2-fra1.steamserver.net
+            - + ext1-fra1.steamserver.net
+            - + ext2-vie1.steamserver.net
+            - + ext1-vie1.steamserver.net
+            - + 162.254.197.38
+            - + test.steampowered.com
+            - + 155.133.248.39
+            - + api.steampowered.com
+        serviceEndpoints:
+            - + 127.0.0.1
+lastEdited: 2024-07-19T10:48:24+02:00
+created: 2024-07-05T15:36:06+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: Zwz64nEWBQn2tx1JXvsMVF4iS3nf5T1bR1WifxPKT6WJVx

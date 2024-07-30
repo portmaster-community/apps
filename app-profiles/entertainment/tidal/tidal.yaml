@@ -1,0 +1,29 @@
+type: profile
+id: PTV57KAyPVRGfjcbzqoQz8mmudRypK1xCkCq7nBGEfHYg5
+source: local
+name: TIDAL
+presPath: C:\Users\Safing\AppData\Local\TIDAL\app-2.37.8\TIDAL.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\TIDAL\app-2.37.8\TIDAL.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + amz-pr-fa.audio.tidal.com
+            - + resources.tidal.com
+            - + dd.tidal.com
+            - + auth.tidal.com
+            - + api.tidal.com
+            - + static.captcha-delivery.com
+            - + geo.captcha-delivery.com
+            - + ct.captcha-delivery.com
+            - + sentry.io
+            - + login.tidal.com
+            - + desktop.tidal.com
+lastEdited: 2024-07-19T13:30:08+02:00
+created: 2024-07-03T16:53:40+02:00
+
+# jess-checksum: ZwtHAnXiPc8vDDdFyfees88uguacxRxokuunhgzZmQNwCy

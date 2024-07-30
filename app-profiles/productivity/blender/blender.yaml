@@ -1,0 +1,15 @@
+type: profile
+id: PTYvxhS4osijK9UyHCYpPMzBnPpbfWgupKSGcZ84aYBCKx
+source: local
+name: Blender
+description: Blender is the free and open-source 3D creation suite.
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Blender Foundation
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-25T10:28:15+02:00
+
+# jess-checksum: ZwxQgW5zr9ryyZx3fPGPbuk9iniWXCmcuotoQALaFCjJAx

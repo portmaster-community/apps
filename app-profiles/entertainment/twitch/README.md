@@ -3,4 +3,4 @@ Twitch is a live-streaming platform
 
 https://www.twitch.tv/
 
-[Twitch Profile](twitch.yaml)
+Youtube has no desktop applikation, so all connections run in a browser. 

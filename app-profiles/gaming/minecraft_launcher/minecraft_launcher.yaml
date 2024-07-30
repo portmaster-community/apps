@@ -1,0 +1,24 @@
+type: profile
+id: PTUGFU78ap822k8zFxABvXzHUSp3xe8PqsYDEFPdgdQQeP
+source: local
+name: Minecraft
+presPath: C:\XboxGames\Minecraft Launcher\Content\Minecraft.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\XboxGames\Minecraft Launcher\Content\Minecraft.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + launchercontent.mojang.com
+            - + client.discovery.minecraft-services.net
+            - + launchermeta.mojang.com
+            - + sentry.io
+            - + redstone-launcher.mojang.com
+            - + 127.0.0.1
+lastEdited: 2024-07-22T14:46:02+02:00
+created: 2024-07-22T14:11:22+02:00
+
+# jess-checksum: ZwipduiZfyAwMhCC3b73Etkd4a6svzEaMsHBtpVSMwUSPr

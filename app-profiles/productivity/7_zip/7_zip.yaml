@@ -1,0 +1,15 @@
+type: profile
+id: PTVfKTzEzDPaw7B3J6BL7nBd4V95nrxksWpzq4ibGpCSLh
+source: local
+name: 7-Zip
+description: 7-Zip is a file archiver with a high compression ratio.
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\7-Zip
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-25T10:25:23+02:00
+
+# jess-checksum: ZwyrDy6eo4howvw9Se1QW1HY6RdxxrqF1VzBao8yAJnXZ4

@@ -1,0 +1,15 @@
+type: profile
+id: PTXxBdmTuWDoUN4qRBp2QEZhWeG3dTTc6ksAD2BoLESSe8
+source: local
+name: PuTTY
+description: PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\PuTTY
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-25T10:24:58+02:00
+
+# jess-checksum: Zwxtpjvzg2JpSWLhEM7Q5dwb6ZrV7bo9kTvqbaBduWtX58

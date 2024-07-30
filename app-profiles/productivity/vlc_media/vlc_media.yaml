@@ -1,0 +1,24 @@
+type: profile
+id: PTRGVBRQJLPQFgpHQTkyQLfMhmu8QgJpHmsSe4MvsYEC2a
+source: local
+name: Vlc
+presPath: C:\Program Files\VideoLAN\VLC\vlc.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\VideoLAN\VLC\vlc.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + update.videolan.org
+lastEdited: 2024-07-22T16:02:00+02:00
+created: 2024-07-22T16:01:35+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: ZwhuM338XGPpWf4HhqaCAgrNoVVw6hedeJygT1EmYKQwFX

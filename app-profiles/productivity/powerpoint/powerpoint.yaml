@@ -12,10 +12,11 @@ config:
     filter:
         defaultAction: block
         endpoints:
+            - + cdn.hubblecontent.osi.office.net
             - + odc.officeapps.live.com
             - + outlook.office365.com
             - + uci.cdn.office.net
-lastEdited: 2024-07-05T12:52:09+02:00
+lastEdited: 2024-07-19T14:49:41+02:00
 created: 2024-07-05T12:34:36+02:00
 
 # The application icon below is the property of its respective owner.
@@ -23,4 +24,4 @@ created: 2024-07-05T12:34:36+02:00
 # It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
 iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAChklEQVRYhe2XTUgUYRjHf89sfm7qqpGYXfwKstj0UIcI3YPZde1sMB0NC4Q6Ox26FUIdDDo0UNdyr9FF6QOkg5uXgpCFyEgsGl00CneeTmu266zjNOah/qf5eJ/3/5vnfebleeFfl+w0IGMmYrXRClNF+wQSIDGAhvaO/BAHdApXp8l+s8WynVAAMmYiVhOtGBfB3Or9JoACqc3y2qgXiOHH/PPwQLJ2f3nGy7y0xKQumtGbw8lAAEsjA5ZEZDKf6oCKETEm9dYla0cASyMDloGM/YFxgZuMFUJ41sCcmUhGhEk/85YZQufxLv8gOXdQrk6kAOR5b8ssSLf/6F9axWC+oo6+w410xY/tJNRhebVVLNsxgpoDRHFZ+b4eJDRGXfU4+PwLdkdiqmXG9hU+Pvnk3ZbDFydt3t+9ES5DTZVZBJBXdm4GgEi0lur2ozQNmuRWsyw8uB0egCF9ngBvrw1tXHeMTVB/up+a+KnwzAGQhK8a+LH4IWTjDRXXQF4tF64AUN7UwoGz5wFYm38TOoEnwKGhy7/dZ+dmWHh4p2jc8vIKnxYN3GcvwgX4uMns68unu/L1JQFCrXYPqaqzhxsRIEztKYAi00VL8Opc518DcF1szxrYbSlq96ReOwZoOugkX9Y1mLmqk3NlFEo0JGZ7Y1IikZINSZkhNFeV0dtcx8HKMv8ALoPxVDpVEgDg3pk2a13ZtiXrqq+modzfarpw/cTj9EZbtm1b/qj/iLXuekNURgzaaioDmfsCAJhLdicRvS8SrDNWVQeVi/m0b5avfSCeSqdyKq2K2js2R+2cSutW5hDgaDab7I4ZBqagfSiJwqyoqoMwpci062L3pNIlj2b/9RN9jc7HyihYDwAAAABJRU5ErkJggg==
 
-# jess-checksum: Zwvk7QLQFSoSZFQTdbxwwcrXgDyAGB4wKMttRknSTuM2BE
+# jess-checksum: ZwuRp2MXLvPisFGpqoaX923HUDsNdCzZ6dnxZc3x8cg4X4

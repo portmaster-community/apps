@@ -1,0 +1,26 @@
+type: profile
+id: PTYbnQZhNsH2wUefrdZqsfWZdCT9aWddCkV5XDmCpPdTzv
+source: local
+name: CCleaner
+presPath: C:\Program Files\CCleaner\CCleaner64.exe
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\CCleaner\CCleaner64.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + driver-updater.ff.avast.com
+            - + download.avira.com
+            - + c.pki.goog
+            - + ipm-provider.ff.avast.com
+            - + ipmcdn.avast.com
+lastEdited: 2024-07-25T11:25:59+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,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
+
+# jess-checksum: ZwigpjcSE4RErv4cxLaDy1Y2EW8qeBcn8TqALMiMZae21A

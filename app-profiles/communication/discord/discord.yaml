@@ -1,23 +1,27 @@
 type: profile
-id: PTVHrUzngUZZfD31TLAvkatjFyUhQLkC6PcD5aRrDqqdq6
+id: PTV666u1PHGGnT88owGGymWdZKDdoRs99xuoiPzfAEtvEE
 source: local
 name: Discord
 presPath: C:\Users\Safing\AppData\Local\Discord\app-1.0.9152\Discord.exe
 usePresPath: true
 fingerprints:
     - type: path
-      operation: equals
-      value: C:\Users\Safing\AppData\Local\Discord\app-1.0.9152\Discord.exe
+      operation: regex
+      value: C:\\Users\\[^\\]+\\AppData\\Local\\Discord\\app-[^\\]+\\Discord\.exe
 config:
     filter:
         defaultAction: block
         endpoints:
+            - + discord-attachments-uploads-prd.storage.googleapis.com */https
+            - + remote-auth-gateway.discord.gg */https
+            - + .discordapp.net */https
+            - + updates.discord.com */https
             - '+ media.tenor.com # for GIFs'
             - + status.discord.com  */https
             - + gateway.discord.gg */https
             - + discordapp.com */https
             - + media.discordapp.net */https
-lastEdited: 2024-07-09T14:15:16+02:00
+lastEdited: 2024-07-16T13:20:33+02:00
 created: 2024-07-03T15:51:15+02:00
 
 # The application icon below is the property of its respective owner.
@@ -25,4 +29,4 @@ created: 2024-07-03T15:51:15+02:00
 # It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
 iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEmUlEQVRYhbVXTUxcVRT+zrkzTBjqMFhMLNX+C9gfW1Aa2yaWRCWmFqXUGF3YgLqz20ZiGtNYFv7FuqCJC00JcVEXhSZ0YRsTWxtp2gU2tUiZNkqITolhmJmXAh1m3jkuhoH5eQMDwrea986Z833n3HvPu4dQIJpawn4j7oPMqFdCLRTrCOwHAIVECDQM6E0RXLY5fuF8Z1mkkLi0kMOhI1alMdxGSm8RU3EhQVV0SknPqsrn5zp9d5YkoLEx6PWU+9oJdJSI3IUQ5whRjSu0IzZmHe/trZgsWMChI1aly3A3EW9bCnE2RGTAFmnu6fIFFhTQ3DpRa1QvEfPq5SCfE6EhITR0nynpzytgZr37mJaXPF2ELfbe9Epw6kdjY9BrDHevFDkAMNNqw9zd2Bj05gjwlPvaeZnWfH4RvM1T7mtPPRMAHG6xqg2ZW5hnt/seAZ7dafB0JaPvho2btyXDXrODsafOYDAg6L9lI2rlF6Gq8YRtb+/p8gVcSRXclo/c6wU+eK8INTsYxiS3zI6tBuGoYpUXUAATE8CjZYQyP2H/PsC2Fb/9Ljj97TQmp3JjEpHbGG4D8C41tYT9bhQF8zWZ999x4+V6V/505sGlnxP47vu4o01Fp+KYrmAj7oP5yNeuIbz4glkSOQC8tN9g7RrnXkdMxcnWzqjPF+D1Ay4wL9it84KZ0HQgf/WYUc8A7XIylniBPXVLzz6FPXUGJV5nmxJqWaEbnIy1Ow2K3JnZhyOKCxfjGAzYOf537tq4cDGOcEQz3rvdhNqdeRJRrHOlPqnZ2F7NGc8iik++iCE4qiACTn7kwVObkj73/hKc+GwaqsBPv9j46qQnY+m2VzOuXssVTWA/57ydwfp1maZIFAiOJrNTBQaH5gIODtnQmcTvjyrCWTeB7FjpYIU4XhweW51Zfn8pZnc0EbC1aq6sW6sMeIaj4nFCWVZNs2OloJCIC4QRADn935t1MJkJHx/z4NfrNjZvJGzZNJfV5o2MEx8W4e6fgn27c09OdqwUCDTsIkU/CDXOLpnwlxJebXA+VlVbDKq2LPbU6E0WwWUn03jWbv7nvuDqtQRiMXVyBwA8fKi40pfA6L+Z34nxsPN/RHA5byv2lwItb7vx/HMGRMmSBu7Z+PL0NNauYTxRQSj1Jd9HLcXfQUVwVHDsqGd2eVQVfTdsdP0QRySalbtgKo5Yhet8Z1nkjdYHZwnUmu4QiQJffxPHpg0JvPaKG3U1jLFxRdQCopbgjyHnKoTGFeufVFzvt9H7YwLDI87ZK+nZ82fKIgSk7oDm9nyXz1UlgC3AlMPXLR3FM3Wcz08VcdHEM+c6fXcYAHq6fAGFdswX+MHEwuQp4oX8FNKRuq7PnqXYmHVcRAYWpvh/EJGB2Jh1PPU8K6C3t2LSFmkWkdAKkodskeb0GSGjR/Z0+QJC1LASIkQkJEQN2bNBTpPuPlPSb4vsXc7lmBlM9mbPBI4CgGQlYiFrt6icgsL5TlUAVDUuKqdiIWu301QEFDCcHm6xqgncRqA3Fzuc2rZ8mo+4YAEppI/nAO1S6Ib08RyEEVL0L3Y8/w/4NvemG0ZxGQAAAABJRU5ErkJggg==
 
-# jess-checksum: Zwr8YD9VdDS7wZjsvfxhUBbdaQg6Wm4CuyhFKiHHz7JpfR
+# jess-checksum: ZwjDCiJgQSViyoorqf3k7SZcHDZjXyPSjywUDJy11CJyZN

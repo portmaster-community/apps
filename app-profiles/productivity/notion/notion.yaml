@@ -1,0 +1,31 @@
+type: profile
+id: PTRjrLrPVSe9pqpZCkbRZbXDBAntw38EnzyAHpgJNgai9g
+source: local
+name: Notion
+presPath: C:\Users\Safing\AppData\Local\Programs\Notion\Notion.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Users\Safing\AppData\Local\Programs\Notion\Notion.exe
+config:
+    filter:
+        defaultAction: block
+        endpoints:
+            - + o324374.ingest.sentry.io
+            - + s3-us-west-2.amazonaws.com
+            - + s3.us-west-2.amazonaws.com
+            - + www.notion.so
+            - + desktop-release.notion-static.com
+            - + msgstore.www.notion.so
+            - + 127.0.0.1
+            - + http-inputs-notion.splunkcloud.com
+lastEdited: 2024-07-24T10:48:39+02:00
+created: 2024-07-24T10:16:07+02:00
+
+# The application icon below is the property of its respective owner.
+# The icon is used for identification purposes only, and does not imply any endorsement or affiliation with their respective owners.
+# It is the sole responsibility of the individual or entity sharing this dataset to ensure they have the necessary permissions to do so.
+iconData: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE1ElEQVRYhe2XX0hbVxzHv/nTqk1iagx2dMW/KKJQFBVESqErrbiC9Q86H1ZI1yGGQpiwJ/sSRYSCUBCLY83T+pK2EwRfpO2DjNIVKlqTIYsvDrGhvTRNcpvc/zm/PZiERFNJutGHsR/8OPf87jnf87n3nvs75wD/W+GmT3kwGDwhimKloigtqqp+JcvysKZp3yqK0ul2u/X5iOkOBjiOM5eVlZ3T6XRf6HQ6G2PMrtPpbABser3eDsCWdDuAEgCQJAmhUAihUAiyLKOxsREmk+l3QRC+Ky0t3QbA8gLgeb7RbDY/DQaDX+7u7iIUCuH9+/dp8UzPjAuCkCVqsVhw+/ZtjI2NxTVN+3FmZuZnt9udEyITQC/Lstfr9Q45HA4QEQDAYDCgrKwMNpsN5eXlKC8vT1/nihmNRiwtLWF6ehqXL1+Gx+OB3W5fFkXxe4vFwh31OfSyLL8aGRkhADQ4OEihUIgSiQQxxgr2tbU1amhooIqKClpeXibG2BtJkr7G/vzJaUZZln3Dw8MEgADQtWvXSBCEggbmeZ52d3fJ7/fTysoKVVZWEgByOp0kCAKJoujIhDAe9Uru37+Pzc1NXL9+HYwxRCIRRKPRQ2Xqmud5JBKJnFoLCwvQNA3z8/MuAL/kBQAAPp8P4+Pjh+JFRUUoLS2F1WqFzWZDTU0NrFZrTk8kEnA6nXj79i2I6ETyDbC8AABgcnISPT09WaJFRUX5dE3brVu3csbzAhgYGEBzc3NBAwKAqqo4duzYkW3yAkgZEeHhw4d4/fo1wuEwwuEwRkdHcfbsWQDA1tYWBgcH8e7dO4iiCIfDgfn5+bz1D/0FKff7/cQYo0AgQF1dXVn3WltbSVEUYoyRIAi0urpKAOjmzZtZf4fdbqfe3l6SJOnPzAfPK1+nrL6+Hk+ePMmKbWxsYHZ2FgBQXFyMpqamQiQLA8i0zEk4OTmJQCDwSTqfDNDR0YFLly4BAGRZxo0bN8DYR9ecfx8A2E8uJSUlAIDnz5/j7t27nxegtrYWbrc7XZ+YmMDOzs7nAwCA8fFxtLS0AADi8TicTufnBTAajbh37x4MBgMAYH19/dMBiEg7fvx4wRBtbW1wuVwF9zsIwOLxuO/KlSt5dYzFYgiHw+n61NQUqqqq/hEAXr58OTc0NCRevXo1Z+NgMIi+vj4AgN/vR0dHBzhuf5NjMpng9Xpx5swZ1NXV4fz58wXDAIB+a2vrh3A4THV1dYdSsSAItLe3Rx8+fCh4h2S1WnOm4oOLEWtqavqJ47jOR48efdPV1QVJkiCKIoD9VHv69OmsDoqigOf59MYk5ZmxQCCAaDQKvT6/Oa8fHR21x2KxPzweDwGg+vp66u/vp4sXL1J7ezs1NDTQqVOnqLi4+NDCdZTPzc1RLBZbQcanP3QuSEEsLi629Pb2rrpcLsvCwkLWTYPBAKvVipMnT+Ysc8WqqqpQXV0dffbsWd+FCxd+Q3JH9DEAANC/ePFiuL293bOzs2OSZTktbjab040YY6KqqrFEIhFTVTWmaRqfrPOKovCKovCqqkYEQXjz4MGDp3fu3PkLGQeVozYkrLOz81e32/2qu7v7HAAjx3E8z/MRjuMi29vb/OPHjyM+n09KCmoHSiTL9GDJtF3YipU84x30/479DQg4K4qRqMM4AAAAAElFTkSuQmCC
+
+# jess-checksum: Zwxj2nMXur374i7TY3n4Pq9zYmA83yWAKE8TpQpRS7LeMc

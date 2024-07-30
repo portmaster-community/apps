@@ -3,4 +3,4 @@ Vimeo is a video streaming platform
 
 https://vimeo.com/
 
-[Vimeo Profile](vimeo.yaml)
+Vimeo has no desktop applikation, so all connections run in a browser. 

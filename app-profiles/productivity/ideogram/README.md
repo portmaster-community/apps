@@ -3,4 +3,4 @@ Ideogram is a Ai tool that generates images
 
 https://ideogram.ai/
 
-[Ideogram Profile](ideogram.yaml)
+Ideogram has no desktop applikation, so all connections run in a browser. 

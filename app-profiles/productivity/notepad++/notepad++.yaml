@@ -1,0 +1,17 @@
+type: profile
+id: PTLPf73DkJHFLtioAVajqVNFKXRDVR7wUjw2Cfmgfyv9M7
+source: local
+name: WinGup for Notepad++
+presPath: C:\Program Files\Notepad++\updater\GUP.exe
+usePresPath: true
+fingerprints:
+    - type: path
+      operation: equals
+      value: C:\Program Files\Notepad++\updater\GUP.exe
+config:
+    filter:
+        defaultAction: block
+lastEdited: 2024-07-23T08:38:20+02:00
+created: 2024-07-23T08:37:52+02:00
+
+# jess-checksum: ZwosTBLbmfkoUnCf9jVfPAqs5JGha7HaU1VcC2zFm7fQeS
